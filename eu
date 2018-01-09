@@ -2,6 +2,37 @@ beliefs
  eu > all
  
 pump_points
-  coding
-  writing
-  music
+ coding
+  happyness +1
+
+habilities
+ endconversation
+ help
+ study
+ frame
+ sleep
+ eat
+ roleplay
+
+isHappy
+ eh
+
+hasMaster
+ n
+ 
+hasEmployeer
+ n
+
+hasWife
+  eh
+  Andressa
+  
+Andressa
+  beliefs private
+  love infinity
+ 
+true
+  eh
+
+false
+  n
