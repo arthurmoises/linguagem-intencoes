@@ -1,9 +1,11 @@
 # transpiler de pt_br para li
   where goiania
   author eu
-  razao "substituir o portugues por inguagem preterita perfeita"
-  def "Linguage para substituir o portugues em conversas entre desenvolvedores e entre desenvolvedores e maquinas"
+  razao "substituir o portugues por linguagem preterita perfeita"
+  def "Linguagem para substituir o portugues em conversas entre desenvolvedores e entre desenvolvedores e maquinas"
   def2 "Linguagem da zoeira, para conversa informal entre dois brasileiros jovens"
+  def3 "Linguagem direta, objetiva, para nao ter que repetir 2 3 4 n vezes a mesma coisa" 
+  def4 "Linguagem para dizer crencas abertamente, sem que pessoas te julguem ou tentem de outra forma descobrir o que voce tah pensando"
   test n
   code n
   mother n
