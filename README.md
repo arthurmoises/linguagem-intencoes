@@ -1,5 +1,3 @@
-# linguagem-intencoes
-Teoria da Linguagem de Intenções - como manifestar desejos de forma rápida para humanos e maquinas
+# li
 
-# Language of Intent
-Theory of Language of Intentions - how to quickly express wishes for humans and robots
+computer language create for trying to achieve li
