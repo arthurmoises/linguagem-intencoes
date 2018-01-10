@@ -1,2 +1,22 @@
-# @axpm
-# pt_br (@arthurx personal bot)
+acoes
+ tempo
+  eh 555
+  def "instant hardware 555 timer"
+  (?) "send the exactly required electrons from power source to the drain"
+  
+  
+  
+
+recursos
+ energia
+  v
+  i
+  t
+  def2 vitALITY
+
+
+tempo
+ delay
+ 
+555_hardware
+ http://www.ti.com/lit/ds/symlink/lm555.pdf
