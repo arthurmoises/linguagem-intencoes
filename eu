@@ -31,3 +31,12 @@ eu
    pq
   ? "Existe propriedade privada no Brasil? O que eh propriedade privada?"
   
+pq
+ attiny_85_xor
+ def_multi_language "eh pipe calculador inline"
+ qtd_language 4
+ list
+  li
+  bash
+  pt_br
+  en
