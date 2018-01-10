@@ -1,0 +1,31 @@
+# transpiler de pt_br para li
+  where goiania
+  author eu
+  razao "substituir o portugues por inguagem preterita perfeita"
+  def "Linguage para substituir o portugues em conversas entre desenvolvedores e entre desenvolvedores e maquinas"
+  def2 "Linguagem da zoeira, para conversa informal entre dois brasileiros jovens"
+  test n
+  code n
+  mother n
+  master n
+  unica eh
+  tipo
+   meu vo morreu
+   minha vo tah lenta
+   eh verdade
+   comi pao
+   arrotei
+   fdp
+   volto soh depois
+   chama o xico
+   cabeca de bagre
+  sem
+   cedilha
+   acentos
+   caracteres especiais
+   fuleiragem
+   ironia
+   sarcasmo
+   manipulacao de interlocultor
+   
+  
